@@ -1,0 +1,8 @@
+# robots.txt for NorthGas site
+
+User-Agent: *
+
+Disallow: /img/
+Disallow: /isi_data/
+Disallow: /isi_upload/
+Disallow: /upload/

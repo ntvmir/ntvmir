@@ -1,0 +1,8 @@
+Deny from all
+Allow from 172.17.0.0/16
+AuthType Basic
+AuthUserFile /usr/local/apache/bin/pass
+AuthName "special access"
+Require valid-user
+Satisfy any
+	    
