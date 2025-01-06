@@ -1,0 +1,89 @@
+body, td, p, div, span, br
+{
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+    color:#000000;
+}
+.c1{	background-color :#E0E0E0; }
+.c2{	background-color :#A5BE93;color:#1B2316; }
+.c3{	background-color :#D3DFCA; }
+.c5{	background-color :#FF5555; }
+.edit {background-color :#D3DFCA;}
+
+.r{	color:#FFFFFF; background-color :#B52131 ;}
+.tit
+{
+	font-family : Verdana;
+	font-size : 17px;
+	font-weight : bold;
+	color:#FFFFFF;
+	background-color: #00A651;
+}
+
+.title, .title TR TD
+{
+	background-color: #00A651;
+	color:#FFFFFF;
+}
+
+.titnew
+{font-size : 12px;font-weight : bold;background-color: #00A651;color:#FFFFFF;}
+
+.page_header
+{
+	font-family: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+	color: #183F9C;
+	margin: 20 0 10 0;
+}
+.page_error
+{
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FF5555;
+}
+
+a.tr
+{
+	font-weight : bold;
+	text-decoration : underline;
+	color:#1B2316;
+}
+.tr 
+{
+	font-weight : bold;
+	color:#1B2316;
+}
+
+a.mcur {
+font-family : Tahoma, verdana, sans-serif;
+font-size : 10px;
+font-weight : bold;
+text-decoration : none;
+color : #000000;
+}
+
+a
+{
+	font-weight : bold;
+	text-decoration : underline;
+	color:#183F9C;
+}
+
+
+
+
+
+input, textarea
+{
+	font-family : Verdana;
+	font-size : 10px;
+}
+
+.title a
+{
+	color:#FFFFFF;
+}
