@@ -1,0 +1,31 @@
+.defFont {
+font-family: Geneva CY, Verdana, Tahoma, Arial, sans-serif;
+font-size: 70%;
+}
+.smallFont {
+font-family: Geneva CY, Verdana, Tahoma, Arial, sans-serif;
+font-size: 65%;
+}
+.XsmallFont {
+font-family: Tahoma, Arial, Geneva CY, Verdana, sans-serif;
+font-size: 55%;
+}
+.bluTtl{color:#032866;}
+.nonUa{text-decoration:none;color:#000000;}
+.w{color:#FFFFFF;}
+.grn{color:#006513}
+
+BODY{font-family: Geneva CY, Verdana, Tahoma, Arial, sans-serif;}
+
+
+.Lnav{margin:0px 5px 0px 9px;}
+.Lnav A{text-decoration:none;color:#032866;}
+.Lnav A.cur{color:#3A3A3A;}
+.grnTtl{color:#07761B;}
+.c66{color:#666666;}
+
+.str{color:#D82E12;}
+
+.lnz TD {border-top:#E3E3E3 solid 1px;}
+
+.stmp A {color:#006513;font-weight:bold;}
